@@ -1,5 +1,4 @@
-# Client SDK (Java) for Network Data API
-<img src="https://ndapi.res.ibm.com/gfx/logos/plain.svg" width="64" />
+# <img src="https://ndapi.res.ibm.com/gfx/logos/plain.svg" width="64" /> Client SDK (Java) for Network Data API
 Network Data API is a set of techniques for your scientific tool box to
 support the visual exploration, computational analysis and understanding
 of high-dimensional spaces, such as networks. Start enhancing your own
